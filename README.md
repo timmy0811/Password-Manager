@@ -3,7 +3,7 @@ Manage all your passwords in one programm and keep it save with included encrypt
 
 The program lets you:
   * `Create` new entries including keyword, user  and password
-  * `Acces` an existing entry by it's name
+  * `Access` an existing entry by it's name
   * `Delete` an existing entry by it's name
   * `View` all existing entries by their names
   * `Clear` all existing entries including the save file
